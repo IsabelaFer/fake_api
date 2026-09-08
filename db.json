@@ -31,5 +31,11 @@
         "Cozinhe em água fervente com sal (ou caldo de carne) por cerca de 5 minutos após subirem à superfície. Sirva com manteiga ou creme azedo."
       ]
     }
-  ]
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "isabela@gmail.com",
+      "password": "123456"
+    }
 }
