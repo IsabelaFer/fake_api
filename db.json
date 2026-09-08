@@ -1,31 +1,4 @@
 [
-  "users": [
-    {
-      "id": 1,
-      "username": "isabela@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 2,
-      "username": "joao@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 3,
-      "username": "wadeilton@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 4,
-      "username": "richard@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": 5,
-      "username": "tarsis@gmail.com",
-      "password": "123456"
-    }
-  ],
   "posts": [
     {
       "id": 1,
